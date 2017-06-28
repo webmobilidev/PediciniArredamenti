@@ -8,44 +8,37 @@
     },
     "installed_plugins": {
         "cordova-plugin-whitelist": {
-            "PACKAGE_NAME": "com.designbest.mobilmania"
+            "PACKAGE_NAME": "com.designbest.pediciniarredamenti"
         },
         "phonegap-plugin-push": {
             "SENDER_ID": "xxxxx",
-            "PACKAGE_NAME": "com.designbest.mobilmania"
+            "PACKAGE_NAME": "com.designbest.pediciniarredamenti"
         },
         "cordova-plugin-device": {
-            "PACKAGE_NAME": "com.designbest.mobilmania"
+            "PACKAGE_NAME": "com.designbest.pediciniarredamenti"
         },
         "cordova-custom-config": {
-            "PACKAGE_NAME": "com.designbest.mobilmania"
+            "PACKAGE_NAME": "com.designbest.pediciniarredamenti"
         },
         "cordova-plugin-dialogs": {
-            "PACKAGE_NAME": "com.designbest.mobilmania"
+            "PACKAGE_NAME": "com.designbest.pediciniarredamenti"
         },
         "cordova-plugin-inappbrowser": {
-            "PACKAGE_NAME": "com.designbest.mobilmania"
+            "PACKAGE_NAME": "com.designbest.pediciniarredamenti"
         },
         "cordova-plugin-network-information": {
-            "PACKAGE_NAME": "com.designbest.mobilmania"
+            "PACKAGE_NAME": "com.designbest.pediciniarredamenti"
         },
         "cordova-plugin-statusbar": {
-            "PACKAGE_NAME": "com.designbest.mobilmania"
-        },
-        "cordova-plugin-contacts": {
-            "CONTACTS_USAGE_DESCRIPTION": " ",
-            "PACKAGE_NAME": "com.designbest.mobilmania"
+            "PACKAGE_NAME": "com.designbest.pediciniarredamenti"
         },
         "cordova-plugin-x-socialsharing": {
-            "PACKAGE_NAME": "com.designbest.mobilmania"
+            "PACKAGE_NAME": "com.designbest.pediciniarredamenti"
         }
     },
     "dependent_plugins": {
-        "cordova-plugin-compat": {
-            "PACKAGE_NAME": "com.designbest.mobilmania"
-        },
         "es6-promise-plugin": {
-            "PACKAGE_NAME": "com.designbest.mobilmania"
+            "PACKAGE_NAME": "com.designbest.pediciniarredamenti"
         }
     }
 }
